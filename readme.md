@@ -14,5 +14,5 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
 
 
-###DB References
+### DB References
 * [Cloud mongo used](https://www.mongodb.com/atlas/database)
